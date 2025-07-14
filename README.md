@@ -1,6 +1,6 @@
 # Menú Recursivo Dinámico con Flask y Bootstrap 
 
-**Nombre de la alumna:** Erika Viaey Jimenez Pelayo
+**Nombre de la alumna:** Erika Vianey Jimenez Pelayo
 
 **Materia:** Estructura de Datos 
 
